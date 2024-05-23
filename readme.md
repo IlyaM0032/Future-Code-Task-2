@@ -4,7 +4,7 @@ GUI solution
 
 
 
-## Instalation
+## Requirements
 
 ```sh
 pip install pyqt5
